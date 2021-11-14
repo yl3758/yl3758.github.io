@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "YL's studying"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "YL Song"
 description              : "An amazing website."
 url                      : "https://yl3758.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
